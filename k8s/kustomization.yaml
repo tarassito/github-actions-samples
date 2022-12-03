@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: tarasssito/hello-gitops
-  newTag: latest
+  newTag: c6485678ded9dbac5d8453f618293cf08d8d2548
