@@ -7,5 +7,5 @@ resources:
 namespace: hello-gitops
 images:
 - name: hello-gitops
-  newName: tarassito/hello-gitops
+  newName: tarasssito/hello-gitops
   newTag: latest
